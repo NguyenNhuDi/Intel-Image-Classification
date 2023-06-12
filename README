@@ -1,0 +1,8 @@
+This is my attempt at a CNN to classify 6 classes of images.
+The classes are:
+Buildings - 0
+Forest - 1
+Glacier - 2
+Mountain - 3
+Sea - 4
+Street 5
